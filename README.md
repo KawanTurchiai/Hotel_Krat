@@ -1,22 +1,28 @@
-# HOTEL KRAT
-## Plataforma Modular para Gerenciamento Interno de Hotel
+# **Hotel Krat**
+**Plataforma Modular para Gerenciamento Interno do Hotel**
 
-O **hotel Krat** é um sistema modular criado para otimizar a gestão interna de hotéis. Exclusivamente desenvolvido para uso dos colaboradores, oferece uma interface organizada e eficiente para acessar e gerenciar diversas funcionalidades. Baseado no conceito de **software modular**, cada função é tratada como um módulo autônomo, facilitando tanto a manutenção quanto a expansão do sistema.
+O **Hotel Krat** é um sistema superprático para ajudar a galera do hotel a gerenciar tudo de forma fácil e organizada. Ele foi pensado só para os colaboradores e tem uma interface limpa e bem simples de usar. O mais legal? É modular, o que significa que cada função é independente, facilitando a manutenção e o crescimento do sistema.
 
-## 🛠️ Principais Funcionalidades
+### 🛠️ **Principais Funcionalidades**
 
-- **Boas-vindas personalizadas**: O sistema cumprimenta o funcionário com uma mensagem personalizada, exibindo o nome do hotel e do usuário.
-- **Validação de acesso**: Ao entrar no sistema, é necessário inserir o nome do usuário e a senha para autenticação. A senha padrão é `2678`.
-- **Menu principal interativo**: Desenvolvido com `switch/case`, oferece uma navegação clara e simples entre os módulos.
-- **Mensagens de saída personalizadas**: Quando o funcionário sai do sistema, uma mensagem de despedida é exibida, mencionando o nome do usuário.
-- **Retorno automático ao menu principal**: Após realizar qualquer ação, o sistema retorna automaticamente à tela inicial.
+- **Boas-vindas personalizadas:** Quando o colaborador entra no sistema, ele é recebido com uma mensagem que mostra o nome do hotel e do usuário. Super amigável!
+  
+- **Validação de acesso:** Para entrar, é só colocar o nome de usuário e a senha (a senha padrão é 2678).
+  
+- **Menu principal interativo:** Navegação fácil e clara, com várias opções no menu, tudo organizado para você se localizar rapidinho.
 
-## 📋 Módulos Funcionais
+- **Mensagens de saída personalizadas:** Quando sair do sistema, uma mensagem de despedida vai aparecer com o nome do usuário. Um toque especial para encerrar o dia.
 
-Cada opção no menu principal é vinculada a um módulo específico, desenvolvido como uma função independente. O menu é dinâmico e pode ser expandido conforme as necessidades do hotel.
+- **Retorno automático ao menu principal:** Fez alguma ação? Sem preocupação, o sistema te manda de volta para a tela inicial de forma automática.
 
-### Exemplos de Módulos Disponíveis:
-- **Gestão de Reservas**: Permite adicionar, atualizar ou visualizar reservas de hóspedes.
-- **Controle de Inventário**: Gerencia itens essenciais do hotel, como toalhas, lençóis e materiais de limpeza.
-- **Relatórios Financeiros**: Gera relatórios detalhados sobre as finanças do hotel, como receitas e despesas.
-- **Planejamento de Atividades**: Organiza tarefas e responsabilidades para a equipe do hotel.
+### 📋 **Módulos Funcionais**
+
+O sistema é modular, ou seja, tem várias funcionalidades que podem ser usadas conforme a necessidade do hotel. O menu vai ficando mais completo com o tempo, dependendo do que o hotel precisar. Aqui estão alguns exemplos:
+
+- **Gestão de Reservas:** Adicione, edite ou veja as reservas dos hóspedes. Tudo em um só lugar.
+
+- **Controle de Inventário:** Acompanhe o que tem no hotel (toalhas, lençóis, produtos de limpeza e por aí vai).
+
+- **Relatórios Financeiros:** Veja os números do hotel, com relatórios detalhados sobre receitas e despesas.
+
+- **Planejamento de Atividades:** Organize as tarefas e divida as responsabilidades entre a equipe.
