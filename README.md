@@ -1,4 +1,4 @@
-# hotel Krat
+# HOTEL KRAT
 ## Plataforma Modular para Gerenciamento Interno de Hotel
 
 O **hotel Krat** é um sistema modular criado para otimizar a gestão interna de hotéis. Exclusivamente desenvolvido para uso dos colaboradores, oferece uma interface organizada e eficiente para acessar e gerenciar diversas funcionalidades. Baseado no conceito de **software modular**, cada função é tratada como um módulo autônomo, facilitando tanto a manutenção quanto a expansão do sistema.
